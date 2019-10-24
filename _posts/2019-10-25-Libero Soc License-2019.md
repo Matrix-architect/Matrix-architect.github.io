@@ -1,4 +1,4 @@
-1. https://www.microsemi.com/product-directory/design-resources/1711-licensing
+1. [](https://www.microsemi.com/product-directory/design-resources/1711-licensing)
 
 2. ![1571042392565](https://upload.cc/i1/2019/10/14/sAlPLw.png)
 
@@ -6,7 +6,7 @@
 
 4. ![1571042599618](https://upload.cc/i1/2019/10/14/cOIjmX.png)
 
-5. 打开cmd命令终端，输入
+5. 打开cmd命令终端，
 
    ```
    vol C:
