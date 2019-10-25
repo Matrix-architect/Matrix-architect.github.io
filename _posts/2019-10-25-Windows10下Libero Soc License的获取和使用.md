@@ -12,7 +12,7 @@ tags:								#标签
 
 
 
-1. [](https://www.microsemi.com/product-directory/design-resources/1711-licensing)
+1. [到官网获取License](https://www.microsemi.com/product-directory/design-resources/1711-licensing)
 
 2. ![1571042392565](https://upload.cc/i1/2019/10/14/sAlPLw.png)
 
