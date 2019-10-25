@@ -66,7 +66,7 @@ gitalk:
   clientSecret: a71a3d63178d447c588adabaf2a337267c708826    #生成的clientSecret
   repo: Matrix-architect.github.io    #仓库名称
   owner: Matrix-architect    #github用户名
-  admin: Matrix
+  admin: Matrix-architect
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
