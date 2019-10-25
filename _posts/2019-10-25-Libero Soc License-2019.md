@@ -1,3 +1,17 @@
+---
+layout:     post   				    # 使用的布局（不需要改）
+title:      Windows10下Libero Soc License的获取和使用			# 标题 
+subtitle:    #副标题
+date:       2019-10-25 				# 时间
+author:     BY 						# 作者
+header-img:  	#这篇文章标题背景图片
+catalog: true 						# 是否归档
+tags:								#标签
+    - 教程
+---
+
+
+
 1. [](https://www.microsemi.com/product-directory/design-resources/1711-licensing)
 
 2. ![1571042392565](https://upload.cc/i1/2019/10/14/sAlPLw.png)
