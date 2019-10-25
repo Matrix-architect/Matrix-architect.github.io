@@ -61,7 +61,7 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: a362ccb590286c899b26                            #生成的clientID
   clientSecret: a71a3d63178d447c588adabaf2a337267c708826    #生成的clientSecret
   repo: Matrix-architect.github.io    #仓库名称
