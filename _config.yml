@@ -99,10 +99,10 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "kjb",
+        title: "养生打码不脱发",
         href: "http://hzbzzz.top"
     },{
-        title: "hzq",
+        title: "blue",
         href: "http://116.62.12.63/"
     }
 ]
