@@ -3,7 +3,7 @@ layout:     post   				    # 使用的布局（不需要改）
 title:      Windows10下Libero Soc License的获取和使用			# 标题 
 subtitle:    #副标题
 date:       2019-10-25 				# 时间
-author:     BY 						# 作者
+author:     HZH 						# 作者
 header-img:  	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
@@ -30,5 +30,5 @@ tags:								#标签
 
 6. 过几十分钟后会收到一封邮件，下载附件`License.dat`
 
-7. 本地设置：![img](https://img-blog.csdn.net/20171107084629685)
+7. 本地设置：![img](https://upload.cc/i1/2019/10/30/0uCgJb.jpg)
 
